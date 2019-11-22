@@ -1,6 +1,7 @@
 *
-!*/.py
+!*/
+!.py
 !binet.ipynb
 !.gitignore
-!*/.png
-!docker/binet_docker
+!*.png
+!binet_docker
